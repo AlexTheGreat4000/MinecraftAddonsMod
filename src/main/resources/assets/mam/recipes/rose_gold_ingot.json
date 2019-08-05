@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R"
+    ],
+    "key": {
+      "R": {
+        "item": "mam:rose_gold_block"
+      }
+    },
+    "result": {
+      "item": "mam:rose_gold_ingot",
+      "count": 9
+    }
+}

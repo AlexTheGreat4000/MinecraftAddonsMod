@@ -1,0 +1,51 @@
+itemGroup.ruby=Ruby
+itemGroup.rosegold=Rose Gold
+itemGroup.obsidian=Obsidian
+itemGroup.emerald=Emerald
+itemGroup.condenseddiamond=Condensed Diamonds
+
+tile.rose_gold_block.name=Rose Gold Block
+tile.rose_gold_ore.name=Rose Gold Ore
+item.rose_gold_sword.name=Rose Gold Sword
+item.rose_gold_pickaxe.name=Rose Gold Pickaxe
+item.rose_gold_ingot.name=Rose Gold Ingot
+item.rose_gold_axe.name=Rose Gold Axe
+item.rose_gold_shovel.name=Rose Gold Shovel
+item.rose_gold_hoe.name=Rose Gold Hoe
+item.rose_gold_helmet.name=Rose Gold Helmet
+item.rose_gold_chestplate.name=Rose Gold Chestplate
+item.rose_gold_leggings.name=Rose Gold Leggings
+item.rose_gold_boots.name=Rose Gold Boots
+
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_shovel.name=Obsidian Shovel
+item.obsidian_hoe.name=Obsidian Hoe
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+tile.ruby_ore.name=Ruby Ore
+tile.ruby_block.name=Ruby Block
+item.ruby.name=Ruby
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_sword.name=Ruby Sword
+item.ruby_axe.name=Ruby Axe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_sword.name=Emerald Sword
+item.emerald_axe.name=Emerald Axe
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots

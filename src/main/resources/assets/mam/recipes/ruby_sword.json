@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R",
+        "R",
+        "S"
+    ],
+    "key": {
+        "R": {
+            "item": "mam:ruby"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "mam:ruby_sword"
+    }
+}
